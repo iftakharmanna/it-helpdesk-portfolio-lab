@@ -6,11 +6,6 @@ This project was built to demonstrate practical troubleshooting, structured docu
 
 ## Tickets
 
-- [Ticket #001 – Account Lockout](tickets/ticket-001-account-lockout.md)
-- [Ticket #002 – Shared Drive Access Denied](tickets/ticket-002-shared-drive-access.md)
-- [Ticket #003 – VPN Connectivity Issue](tickets/ticket-003-vpn-connectivity.md)
-- [Ticket #004 – Slow Computer Performance](tickets/ticket-004-slow-computer.md)
-- [Ticket #005 – Suspicious Account Activity](tickets/ticket-005-suspicious-activity.md)
 
 ## Tools Used
 
