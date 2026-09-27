@@ -1,5 +1,5 @@
 # IT Help Desk Portfolio Lab
-
+![IT Help Desk ticket example](screenshots/images.png)
 A simulated IT help desk environment documenting five realistic support tickets, each covering the full lifecycle from initial user report through investigation, root cause analysis, resolution, and user communication.
 
 This project was built to demonstrate practical troubleshooting, structured documentation, and appropriate triage/escalation judgment relevant to entry-level IT Support and Help Desk roles.
