@@ -13,8 +13,6 @@ This project was built to demonstrate practical troubleshooting, structured docu
 
 ## Tools Used
 
-## Tools Used
-
 Jira Service Management (ticket tracking and workflow)
 
 ## Notes
