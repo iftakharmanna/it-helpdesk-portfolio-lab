@@ -14,6 +14,4 @@
 > Hello Jammy, Good news! Your account is unlocked and you should be able to log in now. The lockout happened because your phone's mail app had an old saved password that kept retrying in the background and eventually locked the account. I've had you update it, so this shouldn't happen again. Let me know if you run into any more trouble before your call!
 
 **Screenshot:**
-![ticket](it-helpdesk-portfolio-lab/screenshots
-/image1.png)
-
+![ticket](../screenshots/image1.png)
