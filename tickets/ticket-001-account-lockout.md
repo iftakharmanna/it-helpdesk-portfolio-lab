@@ -15,4 +15,4 @@
 
 **Screenshot:**
 ![IT Help Desk ticket example](screenshots/image1.png)
-![IT Help Desk ticket example](screenshots/image2.png)
+
