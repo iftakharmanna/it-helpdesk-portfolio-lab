@@ -14,3 +14,7 @@
 
 **User Communication:**
 > Hi Urus, thanks for reporting this right away, that was exactly the right call. Your account itself was not accessed since the login attempt was blocked by MFA, but as a precaution, I've reset your password and you should use the new one going forward. I've also escalated this to our security team so they can investigate where this attempt came from. In the meantime, please do not approve any MFA prompts you did not personally trigger, and let me know immediately if anything else seems off.
+
+**Screenshot:**
+![ticket](../screenshots/image9.png)
+![ticket](../screenshots/image10.png)
