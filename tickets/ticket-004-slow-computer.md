@@ -12,3 +12,7 @@
 
 **User Communication:**
 > Hi Nathan, thanks for reporting this. Your laptop had a backlog of Windows updates that weren't installed properly, which was using up a lot of background resources, along with some startup programs that didn't need to run automatically. I've fixed both, and performance should be back to normal now. Let me know if it slows down again.
+
+**Screenshot:**
+![ticket](../screenshots/image7.png)
+![ticket](../screenshots/image8.png)
