@@ -12,3 +12,7 @@
 
 **User Communication:**
 > Hi Samuel, thanks for flagging this. It turned out your authenticator app's clock was slightly out of sync, which made the codes get rejected during login. I had you resync it and the VPN connected successfully afterward. Let me know if it happens again.
+
+**Screenshot:**
+![ticket](../screenshots/image5.png)
+![ticket](../screenshots/image6.png)
