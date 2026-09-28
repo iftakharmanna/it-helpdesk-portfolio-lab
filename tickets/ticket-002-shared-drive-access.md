@@ -12,3 +12,8 @@
 
 **User Communication:**
 > Hello Hamed, Thanks for reporting this. I can see you were moved to Finance last week but weren't added to the Finance shared drive group at the time, which is why you couldn't get in. I've added you to that group now, so you should be able to access the folder. Let me know if you still run into any trouble.
+
+
+**Screenshot:**
+![ticket](../screenshots/image2.png)
+![ticket](../screenshots/image3.png)
